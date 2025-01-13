@@ -3524,7 +3524,7 @@
         "symbol-avoid-edges": false
       },
       "paint": {
-        "text-color": "rgba(73, 79, 93, 1)",
+        "text-color": "rgba(76, 82, 97, 1)",
         "text-halo-blur": 0,
         "text-halo-color": "rgba(240, 240, 240, 1)",
         "text-halo-width": 2,
